@@ -141,20 +141,6 @@
                 </div>
             </div> <!-- row -->
         </div> <!-- container -->
-        <div class="header-social">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="header-social-icon">
-                            <ul>
-                                <li><a href="https://github.com/AaminaKhatib"><i class="lni-linkedin-original"></i></a></li>
-			    <li><a href="https://www.linkedin.com/in/aamina-khatib/"><i class="lni-linkedin-original"></i></a></li>
-                            </ul>
-                        </div> <!-- header social -->
-                    </div>
-                </div> <!-- row -->
-            </div> <!-- container -->
-        </div> <!-- header social -->
     </div> <!-- header content -->
 </header>
 
