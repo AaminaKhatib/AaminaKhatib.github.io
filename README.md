@@ -13,22 +13,22 @@
     <title>Profile: Aamina Khatib</title>
 
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="AaminaProfile/assets/images/favicon.png" type="image/png">
 
     <!--====== Bootstrap css ======-->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="AaminaProfile/assets/css/bootstrap.min.css">
 
     <!--====== Line Icons css ======-->
-    <link rel="stylesheet" href="assets/css/LineIcons.css">
+    <link rel="stylesheet" href="AaminaProfile/assets/css/LineIcons.css">
 
     <!--====== Magnific Popup css ======-->
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="AaminaProfile/assets/css/magnific-popup.css">
 
     <!--====== Default css ======-->
-    <link rel="stylesheet" href="assets/css/default.css">
+    <link rel="stylesheet" href="AaminaProfile/assets/css/default.css">
 
     <!--====== Style css ======-->
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="AaminaProfile/assets/css/style.css">
 
 
 </head>
@@ -91,34 +91,34 @@
 
         <div id="parallax" class="header-content d-flex align-items-center">
             <div class="header-shape shape-one layer" data-depth="0.10">
-                <img src="assets/images/banner/shape/shape-1.png" alt="Shape">
+                <img src="AaminaProfile/assets/images/banner/shape/shape-1.png" alt="Shape">
             </div> <!-- header shape -->
             <div class="header-shape shape-tow layer" data-depth="0.30">
-                <img src="assets/images/banner/shape/shape-2.png" alt="Shape">
+                <img src="AaminaProfile/assets/images/banner/shape/shape-2.png" alt="Shape">
             </div> <!-- header shape -->
             <div class="header-shape shape-three layer" data-depth="0.40">
-                <img src="assets/images/banner/shape/shape-3.png" alt="Shape">
+                <img src="AaminaProfile/assets/images/banner/shape/shape-3.png" alt="Shape">
             </div> <!-- header shape -->
             <div class="header-shape shape-fore layer" data-depth="0.60">
-                <img src="assets/images/banner/shape/shape-2.png" alt="Shape">
+                <img src="AaminaProfile/assets/images/banner/shape/shape-2.png" alt="Shape">
             </div> <!-- header shape -->
             <div class="header-shape shape-five layer" data-depth="0.20">
-                <img src="assets/images/banner/shape/shape-1.png" alt="Shape">
+                <img src="AaminaProfile/assets/images/banner/shape/shape-1.png" alt="Shape">
             </div> <!-- header shape -->
             <div class="header-shape shape-six layer" data-depth="0.15">
-                <img src="assets/images/banner/shape/shape-4.png" alt="Shape">
+                <img src="AaminaProfile/assets/images/banner/shape/shape-4.png" alt="Shape">
             </div> <!-- header shape -->
             <div class="header-shape shape-seven layer" data-depth="0.50">
-                <img src="assets/images/banner/shape/shape-5.png" alt="Shape">
+                <img src="AaminaProfile/assets/images/banner/shape/shape-5.png" alt="Shape">
             </div> <!-- header shape -->
             <div class="header-shape shape-eight layer" data-depth="0.40">
-                <img src="assets/images/banner/shape/shape-3.png" alt="Shape">
+                <img src="AaminaProfile/assets/images/banner/shape/shape-3.png" alt="Shape">
             </div> <!-- header shape -->
             <div class="header-shape shape-nine layer" data-depth="0.20">
-                <img src="assets/images/banner/shape/shape-6.png" alt="Shape">
+                <img src="AaminaProfile/assets/images/banner/shape/shape-6.png" alt="Shape">
             </div> <!-- header shape -->
             <div class="header-shape shape-ten layer" data-depth="0.30">
-                <img src="assets/images/banner/shape/shape-3.png" alt="Shape">
+                <img src="AaminaProfile/assets/images/banner/shape/shape-3.png" alt="Shape">
             </div> <!-- header shape -->
             <div class="container">
                 <div class="row align-items-center">
@@ -134,7 +134,7 @@
                     </div>
                     <div class="col-lg-6 offset-xl-1">
                         <div class="header-image d-none d-lg-block">
-                            <img src="assets/images/banner/hero.png" alt="hero">
+                            <img src="AaminaProfile/assets/images/banner/hero.png" alt="hero">
                         </div> <!-- header image -->
                     </div>
                 </div> <!-- row -->
@@ -382,7 +382,7 @@
 
     <!--====== CALL TO ACTION PART START ======-->
 
-    <section id="call-to-action" class="call-to-action pt-125 pb-130 bg_cover" style="background-image: url(assets/images/call-to-action.jpg)">
+    <section id="call-to-action" class="call-to-action pt-125 pb-130 bg_cover" style="background-image: url(AaminaProfile/assets/images/call-to-action.jpg)">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xl-8 col-lg-9">
@@ -417,13 +417,13 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-work text-center mt-30">
                         <div class="work-image">
-                            <img src="assets/images/work/w-1.jpg" alt="work">
+                            <img src="AaminaProfile/assets/images/work/w-1.jpg" alt="work">
                         </div>
                         <div class="work-overlay">
                             <div class="work-content">
                                 <h3 class="work-title">Product Design</h3>
                                 <ul>
-                                    <li><a class="image-popup" href="assets/images/work/w-1.jpg"><i class="lni-plus"></i></a></li>
+                                    <li><a class="image-popup" href="AaminaProfile/assets/images/work/w-1.jpg"><i class="lni-plus"></i></a></li>
                                     <li><a href="#"><i class="lni-link"></i></a></li>
                                 </ul>
                             </div>
@@ -433,13 +433,13 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-work text-center mt-30">
                         <div class="work-image">
-                            <img src="assets/images/work/w-2.jpg" alt="work">
+                            <img src="AaminaProfile/assets/images/work/w-2.jpg" alt="work">
                         </div>
                         <div class="work-overlay">
                             <div class="work-content">
                                 <h3 class="work-title">Product Design</h3>
                                 <ul>
-                                    <li><a class="image-popup" href="assets/images/work/w-2.jpg"><i class="lni-plus"></i></a></li>
+                                    <li><a class="image-popup" href="AaminaProfile/assets/images/work/w-2.jpg"><i class="lni-plus"></i></a></li>
                                     <li><a href="#"><i class="lni-link"></i></a></li>
                                 </ul>
                             </div>
@@ -449,13 +449,13 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-work text-center mt-30">
                         <div class="work-image">
-                            <img src="assets/images/work/w-3.jpg" alt="work">
+                            <img src="AaminaProfile/assets/images/work/w-3.jpg" alt="work">
                         </div>
                         <div class="work-overlay">
                             <div class="work-content">
                                 <h3 class="work-title">Product Design</h3>
                                 <ul>
-                                    <li><a class="image-popup" href="assets/images/work/w-3.jpg"><i class="lni-plus"></i></a></li>
+                                    <li><a class="image-popup" href="AaminaProfile/assets/images/work/w-3.jpg"><i class="lni-plus"></i></a></li>
                                     <li><a href="#"><i class="lni-link"></i></a></li>
                                 </ul>
                             </div>
@@ -465,13 +465,13 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-work text-center mt-30">
                         <div class="work-image">
-                            <img src="assets/images/work/w-4.jpg" alt="work">
+                            <img src="AaminaProfile/assets/images/work/w-4.jpg" alt="work">
                         </div>
                         <div class="work-overlay">
                             <div class="work-content">
                                 <h3 class="work-title">Product Design</h3>
                                 <ul>
-                                    <li><a class="image-popup" href="assets/images/work/w-4.jpg"><i class="lni-plus"></i></a></li>
+                                    <li><a class="image-popup" href="AaminaProfile/assets/images/work/w-4.jpg"><i class="lni-plus"></i></a></li>
                                     <li><a href="#"><i class="lni-link"></i></a></li>
                                 </ul>
                             </div>
@@ -481,13 +481,13 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-work text-center mt-30">
                         <div class="work-image">
-                            <img src="assets/images/work/w-5.jpg" alt="work">
+                            <img src="AaminaProfile/assets/images/work/w-5.jpg" alt="work">
                         </div>
                         <div class="work-overlay">
                             <div class="work-content">
                                 <h3 class="work-title">Product Design</h3>
                                 <ul>
-                                    <li><a class="image-popup" href="assets/images/work/w-5.jpg"><i class="lni-plus"></i></a></li>
+                                    <li><a class="image-popup" href="AaminaProfile/assets/images/work/w-5.jpg"><i class="lni-plus"></i></a></li>
                                     <li><a href="#"><i class="lni-link"></i></a></li>
                                 </ul>
                             </div>
@@ -497,13 +497,13 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-work text-center mt-30">
                         <div class="work-image">
-                            <img src="assets/images/work/w-6.jpg" alt="work">
+                            <img src="AaminaProfile/assets/images/work/w-6.jpg" alt="work">
                         </div>
                         <div class="work-overlay">
                             <div class="work-content">
                                 <h3 class="work-title">Product Design</h3>
                                 <ul>
-                                    <li><a class="image-popup" href="assets/images/work/w-6.jpg"><i class="lni-plus"></i></a></li>
+                                    <li><a class="image-popup" href="AaminaProfile/assets/images/work/w-6.jpg"><i class="lni-plus"></i></a></li>
                                     <li><a href="#"><i class="lni-link"></i></a></li>
                                 </ul>
                             </div>
@@ -636,7 +636,7 @@
                 <div class="col-lg-4 col-md-8 col-sm-9">
                     <div class="single-blog mt-30">
                         <div class="blog-image">
-                            <img src="assets/images/blog/b-1.jpg" alt="Blog">
+                            <img src="AaminaProfile/assets/images/blog/b-1.jpg" alt="Blog">
                         </div>
                         <div class="blog-content">
                             <h4 class="blog-title"><a href="#">Hired Releases 2023 Brand Health.</a></h4>
@@ -647,7 +647,7 @@
                 <div class="col-lg-4 col-md-8 col-sm-9">
                     <div class="single-blog mt-30">
                         <div class="blog-image">
-                            <img src="assets/images/blog/b-2.jpg" alt="Blog">
+                            <img src="AaminaProfile/assets/images/blog/b-2.jpg" alt="Blog">
                         </div>
                         <div class="blog-content">
                             <h4 class="blog-title"><a href="#">Hired Releases 2023 Brand Health.</a></h4>
@@ -658,7 +658,7 @@
                 <div class="col-lg-4 col-md-8 col-sm-9">
                     <div class="single-blog mt-30">
                         <div class="blog-image">
-                            <img src="assets/images/blog/b-3.jpg" alt="Blog">
+                            <img src="AaminaProfile/assets/images/blog/b-3.jpg" alt="Blog">
                         </div>
                         <div class="blog-content">
                             <h4 class="blog-title"><a href="#">Hired Releases 2023 Brand Health.</a></h4>
@@ -731,7 +731,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="contact-form pt-30">
-                        <form id="contact-form" action="assets/contact.php">
+                        <form id="contact-form" action="AaminaProfile/assets/contact.php">
                             <div class="single-form">
                                 <input type="text" name="name" placeholder="Name">
                             </div> <!-- single form -->
@@ -770,7 +770,7 @@
                     <div class="col-lg-8">
                         <div class="footer-content text-center">
                             <a href="index.html">
-                                <img src="assets/images/logo-2.png" alt="Logo">
+                                <img src="AaminaProfile/assets/images/logo-2.png" alt="Logo">
                             </a>
                             <p class="mt-">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci- didunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exe- rcitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                             <ul>
@@ -812,34 +812,34 @@
 
 
     <!--====== jquery js ======-->
-    <script src="assets/js/vendor/modernizr-3.6.0.min.js"></script>
-    <script src="assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="AaminaProfile/assets/js/vendor/modernizr-3.6.0.min.js"></script>
+    <script src="AaminaProfile/assets/js/vendor/jquery-1.12.4.min.js"></script>
 
     <!--====== Bootstrap js ======-->
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/popper.min.js"></script>
+    <script src="AaminaProfile/assets/js/bootstrap.min.js"></script>
+    <script src="AaminaProfile/assets/js/popper.min.js"></script>
 
     <!--====== Magnific Popup js ======-->
-    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="AaminaProfile/assets/js/jquery.magnific-popup.min.js"></script>
 
     <!--====== Parallax js ======-->
-    <script src="assets/js/parallax.min.js"></script>
+    <script src="AaminaProfile/assets/js/parallax.min.js"></script>
 
     <!--====== Counter Up js ======-->
-    <script src="assets/js/waypoints.min.js"></script>
-    <script src="assets/js/jquery.counterup.min.js"></script>
+    <script src="AaminaProfile/assets/js/waypoints.min.js"></script>
+    <script src="AaminaProfile/assets/js/jquery.counterup.min.js"></script>
 
 
     <!--====== Appear js ======-->
-    <script src="assets/js/jquery.appear.min.js"></script>
+    <script src="AaminaProfile/assets/js/jquery.appear.min.js"></script>
 
     <!--====== Scrolling js ======-->
-    <script src="assets/js/scrolling-nav.js"></script>
-    <script src="assets/js/jquery.easing.min.js"></script>
+    <script src="AaminaProfile/assets/js/scrolling-nav.js"></script>
+    <script src="AaminaProfile/assets/js/jquery.easing.min.js"></script>
 
 
     <!--====== Main js ======-->
-    <script src="assets/js/main.js"></script>
+    <script src="AaminaProfile/assets/js/main.js"></script>
 
 </body>
 
