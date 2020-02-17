@@ -118,8 +118,6 @@
                             <h1 class="title">Aamina Khatib</h1>
                             <p>A Junior Software Developer in the Business Line Applications division</p>
                             <a class="main-btn" href="#work">View my Work</a>
-							Github: https://aaminakhatib.github.io/
-							LinkedIn: https://www.linkedin.com/in/aamina-khatib/
                         </div> <!-- header content right -->
                     </div>
                     <div class="col-lg-6 offset-xl-1">
@@ -135,10 +133,8 @@
                         <div class="col-lg-12">
                             <div class="header-social-icon">
                                 <ul>
-                                    <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
-                                    <li><a href="#"><i class="lni-twitter-original"></i></a></li>
-                                    <li><a href="#"><i class="lni-behance-original"></i></a></li>
-                                    <li><a href="#"><i class="lni-linkedin-original"></i></a></li>
+                                    <li><a href="https://github.com/AaminaKhatib"><i class="lni-linkedin-original"></i></a></li>
+				    <li><a href="https://www.linkedin.com/in/aamina-khatib/"><i class="lni-linkedin-original"></i></a></li>
                                 </ul>
                             </div> <!-- header social -->
                         </div>
