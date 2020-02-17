@@ -103,13 +103,6 @@
         </div> <!-- header shape -->
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-xl-5 col-lg-6">
-                    <div class="header-content-right">
-                        <h4 class="sub-title">Hello, I’m</h4>
-                        <h1 class="title">Aamina Khatib</h1>
-                        <p>A Junior Software Developer in the Business Line Applications division</p>
-                    </div> <!-- header content right -->
-                </div>
                 <div class="row align-items-center">
                     <div class="col-xl-5 col-lg-6">
                         <div class="header-content-right">
