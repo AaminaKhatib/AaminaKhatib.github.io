@@ -119,8 +119,8 @@
                         <div class="col-lg-12">
                             <div class="header-social-icon">
                                 <ul>
-                                    <li><a href="#"><i class="lni-behance-original"></i></a></li>
-                                    <li><a href="https://www.linkedin.com/in/aamina-khatib/"><i class="lni-linkedin-original"></i></a></li>
+                                    <li>GitHub:<a href="#"><i class="lni-behance-original"></i></a></li>
+                                    <li>LinkedIn:<a href="https://www.linkedin.com/in/aamina-khatib/"><i class="lni-linkedin-original"></i></a></li>
                                 </ul>
                             </div> <!-- header social -->
                         </div>
