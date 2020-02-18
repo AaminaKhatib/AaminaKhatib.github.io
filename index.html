@@ -57,14 +57,12 @@
                     <nav class="navbar navbar-expand-lg">
                         <a class="navbar-brand" href="index.html">
                             <img src="logo.png" alt="Logo">
-                        <div class="col-lg-12">
                             <div class="header-social-icon">
                                 <ul>
                                     <li>GitHub:<a href="https://github.com/AaminaKhatib"><i class="lni-behance-original"></i></a></li>
                                     <li>LinkedIn:<a href="https://www.linkedin.com/in/aamina-khatib/"><i class="lni-linkedin-original"></i></a></li>
                                 </ul>
                             </div> <!-- header social -->
-                        </div>
                         </a> <!-- Logo -->
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="toggler-icon"></span>
