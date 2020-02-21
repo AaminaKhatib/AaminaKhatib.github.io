@@ -1,0 +1,19 @@
+@media (max-width: 760px)
+{
+    .myNav
+    {
+        top: 0;
+        width: 100%;
+        z-index: 1;
+    }
+}
+
+@media (min-width:768px)
+{
+    .myNav{
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 1;
+    }
+}
