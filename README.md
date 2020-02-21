@@ -76,10 +76,10 @@ The logo was designed online on https://canva.com
 * Issues in mobility must be rectified 
 
 #### Tasks completed: 
-##### Pluralsight courses:
-* GitHub Fundamentals course 
 * Partially fixed some mobility issues and made the site more responsive based on advice from Lungi 
 * Assisted Marlene in creating a new site 
+##### Pluralsight courses:
+* GitHub Fundamentals course 
 
 ### 21/02/2020:  
 #### Tasks completed: 
